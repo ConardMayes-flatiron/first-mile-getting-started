@@ -1,4 +1,4 @@
-# Welcome to Learn.co! 
+# Getting Started 
 
 # Welcome to Learn.co! 
 
