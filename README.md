@@ -47,9 +47,9 @@ We are a values-driven community. We believe - and have seen - that if we can al
 4. Listen intently and over-communicate.
 
 ***MAKE NO LITTLE PLANS***
-Build for scale.
-Create for the whole world.
-Execute short term goals in view of long-term strategy.
+1. Build for scale.
+2. Create for the whole world.
+3. Execute short term goals in view of long-term strategy.
 
 ***BE SCRAPPY***
 1. Get S#!t Done.
