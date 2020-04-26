@@ -1,5 +1,7 @@
 # Welcome to Learn.co! 
 
+# Welcome to Learn.co! 
+
 Over the next 1000 hours you will learn everything you need to know to get started as a Full Stack Software Engineer. As you dive in, we’ll share a few thoughts about how you can best use Learn.co and make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron Community now, and although you may often be working alone, we’re in this together.
 
 # Learning How To Learn
