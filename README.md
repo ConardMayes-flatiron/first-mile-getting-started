@@ -1,10 +1,8 @@
 # Getting Started 
 
-# Welcome to Learn.co! 
+# Welcome to Flatiron School! 
 
-Over the next 1000 hours you will learn everything you need to know to get started as a Full Stack Software Engineer. Take a look through these Welcome Lessons ahead of your first day of school to get to know the program and your support team. On Day 1, you’ll see additional lessons appear under the First Mile track with your curriculum content for the first two weeks of class. 
-
-In these Welcome Lessons, we’ll share a few thoughts about how you can best use Learn.co and make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron Community now, and although you may often be working alone, we’re in this together.
+Over the next 1000 hours you will learn everything you need to know to get started as a Full Stack Software Engineer. As you dive in, we’ll share a few thoughts about how you can make the most of your program experience. It's going to be harder, and also more rewarding than any other learning experience you've ever had — we promise. Know that you are part of the Flatiron Community now, and although you may often be working alone, we’re in this together.
 
 
 # Learning How To Learn
@@ -60,3 +58,5 @@ We are a values-driven community. We believe - and have seen - that if we can al
 2. Embrace change and thrive in ambiguity.
 3. Be resourceful.
 4. Take ownership of opportunities.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/first-mile-getting-started'>Getting Started</a> on Learn.co and start learning to code for free.</p>
